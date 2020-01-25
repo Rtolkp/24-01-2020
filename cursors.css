@@ -1,0 +1,24 @@
+p{
+	cursor: pointer;
+}
+h1{
+	cursor:text; 
+}
+h2{
+	cursor: wait;
+}
+h3{
+	cursor: help;
+}
+h4{
+	cursor: progress;
+}
+h5{
+	cursor: crosshair;
+}
+h6{
+	cursor: move;
+}
+h1{
+	cursor: url();
+}
